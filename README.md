@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Gurjar Intellect Community.
 
 You can use the [editor on GitHub](https://github.com/gurjarintellet/Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
